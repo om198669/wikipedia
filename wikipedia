@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikipedia</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #f5f5f5;
+
+        }
+
+        #container {
+            width: 85%;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+        }
+
+        #header {
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        #header h1 {
+            font-size: 24px;
+        }
+
+        #header .subheading {
+            font-size: 14px;
+            color: #666;
+        }
+
+        #sidebar {
+            width: 25%;
+            float: left;
+            margin-right: 20px;
+        }
+
+        #content {
+            width: 70%;
+            float: left;
+        }
+
+        #content h2 {}
+
+        .toc {
+            background-color: #f9f9f9;
+            border: 1px solid #a2a9b1;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        .toc h2 {
+            margin-top: 0;
+            font-size: 16px;
+        }
+
+        .toc ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        .toc ul li {
+            margin: 5px 0;
+        }
+
+        .infobox {
+            background-color: #f9f9f9;
+            padding: 10px;
+            margin-bottom: 20px;
+            font-size: 15px;
+        }
+
+        .infobox h3 {
+            margin-top: 0;
+            font-size: 15px;
+        }
+
+        .infobox img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .footer {
+            clear: both;
+            padding: 20px 0;
+            border-top: 1px solid #ccc;
+            margin-top: 20px;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .clear {
+            clear: both;
+        }
+
+        ul {
+            display: flex;
+            list-style: none;
+        }
+
+        .div1 {}
+
+        .li1 {
+            padding-left: 10px;
+        }
+
+        .divimg {
+            background-color: #f9f9f9;
+            border: 1px solid #a2a9b1;
+            padding: 10px;
+            margin-left: 600px;
+
+            font-size: 14px;
+
+        }
+
+        .li2 {
+            padding-left: 100px;
+        }
+
+        .ul1 {}
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <div id="header">
+            <h1>Wikipedia</h1>
+            <div class="subheading">From Wikipedia, the free encyclopedia</div>
+            <div class="div1">
+                
+                    <label>View History</label>
+                    <input type="search" placeholder="Search...">
+
+                
+            </div>
+        </div>
+        <div id="sidebar">
+            <div class="infobox">
+                <h3>Wikipedia</h3>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/1920px-Wikipedia-logo-v2.svg.png"
+                    alt="Wikipedia Logo">
+
+
+                <p><strong>Type of site:</strong> Online encyclopedia</p>
+                <p><strong>Available in:</strong> Multiple languages</p>
+                <p><strong>Owner:</strong> Wikimedia Foundation</p>
+                <p><strong>Created by:</strong> Jimmy Wales, Larry Sanger</p>
+                <p><strong>Website:</strong> <a href="https://www.wikipedia.org">wikipedia.org</a></p>
+                <p><strong>Alexa rank:</strong> 5 (June 2019)</p>
+                <p><strong>Commercial:</strong> No</p>
+                <p><strong>Registration:</strong> Optional</p>
+                <p><strong>Users:</strong> 282,227 active users</p>
+                <p><strong>Launched:</strong> January 15, 2001</p>
+            </div>
+        </div>
+        <div id="content">
+            <p>This article is about the online encyclopedia itself. For Wikipedia's home page, see <a href="https://en.wikipedia.org/wiki/Main_Page">Main
+                    Page</a>. For Wikipedia's visitor introduction, see <a href="https://en.wikipedia.org/wiki/Wikipedia:About">Wikipedia:About</a>. For other uses,
+                see <a href="https://en.wikipedia.org/wiki/Wikipedia:Contents">Wikipedia Content</a>.</p>
+            <h2>Wikipedia</h2>
+            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus iusto
+                distinctio vero ab unde optio rerum. Veniam nihil dolorum consectetur sunt? Distinctio incidunt
+                explicabo iusto repudiandae animi quae veniam ad.
+                Reiciendis, esse. Sequi neque dolorem adipisci nobis omnis, ipsum, inventore corrupti ipsam sint dolore
+                natus debitis eius iusto. Consequuntur commodi repellendus, modi nisi provident mollitia ipsum sunt
+                tempore magnam eos.
+                Illum pariatur animi nam esse sit voluptatum, error, iure, laborum inventore quam aut at est? Nisi
+                inventore veniam accusamus dolor? Provident soluta commodi consequuntur incidunt nulla fugit ullam illum
+                amet.
+                Officiis eum debitis aspernatur ipsa quasi tenetur modi omnis, eius fugit enim amet? Deserunt quibusdam
+                dolorem vitae alias laudantium ad reiciendis sit. Harum modi quasi minima provident nobis, quo amet?
+                Fuga tenetur quam dolore repudiandae alias optio at aspernatur libero debitis fugit reiciendis inventore
+                mollitia ratione quasi sit quos, perferendis aperiam soluta eveniet. Labore assumenda quasi nesciunt
+                vitae, deleniti culpa.</p>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto odio laborum eum cumque architecto
+                dolorum. Consequatur vero rerum voluptates dolores sit ratione, ea aliquid facere fuga praesentium totam
+                consectetur eos.rem
+
+            </p>
+            <div class="toc">
+                <h2>Contents</h2>
+                <div class="ul1">
+                    <ol>
+                        <li>History</li>
+                        <ol>
+                            <li>Nupedia</li>
+                            <li>Launch and early growth</li>
+                        </ol>
+                        <li>Features</li>
+                        <ol>
+                            <li>Content policies and guidelines</li>
+                            <li>Editors</li>
+                        </ol>
+                    </ol>
+                </div>
+            </div>
+            <div class="divimg">
+                <h3>Wikipedia</h3>
+
+
+            </div>
+            <h2>History</h2>
+            <h3>1.1 Nupedia</h3>
+            <p>Nupedia was an English-language Web-based encyclopedia whose articles were written by experts and
+                reviewed under a formal process. It was founded on March 9, 2000, under the ownership of Bomis, a web
+                portal company. Its editor-in-chief was Larry Sanger, who was working on ways to improve the peer review
+                process for the encyclopedia.</p>
+            <h3>1.2 Launch and early growth</h3>
+            <p>Wikipedia was launched as a complementary project to Nupedia on January 15, 2001. It was initially
+                intended to allow collaboration on articles prior to entering the peer review process, but its rapid
+                growth led to it eclipsing Nupedia, which was eventually abandoned.</p>
+        </div>
+        <div class="clear"></div>
+
+    </div>
+    
+</body>
+
+</html>
